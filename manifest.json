@@ -2,9 +2,9 @@
   "manifest_version": 3,
   "name": "Lawsnote 判決大綱導航",
   "version": "1.0.0",
-  "description": "在 Lawsnote 判決頁面顯示可點擊的判決結構大綱，快速跳轉到主文、事實、理由等各段落。由喵星律師（宸星法律事務所）開發，經 Lawsnote 授權同意。",
+  "description": "在 Lawsnote 判決頁面顯示可點擊的判決結構大綱，快速跳轉到主文、事實、理由等各段落。由喵星律師（宸星法律事務所）開發，經 Lawsnote 創辦人兼執行長Barry大大同意製作。",
   "author": "喵星律師（宸星法律事務所）",
-  "homepage_url": "https://github.com/meowsing-lawyer/lawsnote-outline-extension",
+  "homepage_url": "https://github.com/meowsing64/lawsnote-outline-extension",
   "permissions": [],
   "content_scripts": [
     {
