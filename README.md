@@ -1,2 +1,4 @@
-# lawsnote-outline-extension
+<img width="955" height="761" alt="image" src="https://github.com/user-attachments/assets/34de27cd-fc50-430d-ba95-3fd307fb196a" /># lawsnote-outline-extension
 Lawsnote 判決頁面大綱導航插件，快速跳轉到主文、事實、理由等段落。由喵星律師（宸星法律事務所）開發。
+▎更新紀錄
+v1.0.2 - 改善大綱載入速度，修正從搜尋結果點進判決時大綱不會自動出現的問題（過往點進新判決，常需要重新整理頁面）
